@@ -19,4 +19,4 @@ def run_script():
 
 if __name__ == '__main__':
     # Run the Flask app
-    app.run(debug=True, host='https://run-yhq1.onrender.com', port=5000)
+    app.run(debug=True, host='run-f3ub.onrender.com', port=5000)
